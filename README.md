@@ -6,8 +6,8 @@ All user authentication and data for your app will be saved and accessed via a r
 Time spent: **1** hours spent in total
 
 ## Video Walk-through
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/sMQLCXi"  ><a href="//imgur.com/a/sMQLCXi">Lab2: Instaparse</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>## Notes
 
+(https://imgur.com/sMQLCXi)
 https://parse-dashboard.back4app.com
 was used for the backend functionality
 
