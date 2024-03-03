@@ -7,7 +7,11 @@ Time spent: **1** hours spent in total
 
 ## Video Walk-through
 
-(https://imgur.com/sMQLCXi)
+https://imgur.com/sMQLCXi
+
+
+## Notes
+
 https://parse-dashboard.back4app.com
 was used for the backend functionality
 
