@@ -1,4 +1,4 @@
-# *InstaParsee*
+# *InstaParse*
 
 **Instaparse** is an app where users will be able to sign up and login. Users can select photos from their photo album to post to their feed.
 All user authentication and data for your app will be saved and accessed via a remote custom Parse backend server. 
